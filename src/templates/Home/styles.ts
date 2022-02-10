@@ -8,7 +8,6 @@ export const Content = styled.main`
       justify-content: center;
       max-width: 130rem;
       margin: 0 auto;
-
       background-color: ${theme.colors.white};
     `}
 `
